@@ -1,5 +1,5 @@
 {
-  "name": "sinnerleech",
+  "name": "tcloud-heroku",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/w3b573r/Sinnerleech.git"
+    "url": "git+https://github.com/Lunik/tcloud-heroku.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/w3b573r/Sinnerleech/issues"
+    "url": "https://github.com/Lunik/tcloud-heroku/issues"
   },
-  "homepage": "https://github.com/w3b573r/Sinnerleech#readme",
+  "homepage": "https://github.com/Lunik/tcloud-heroku#readme",
   "dependencies": {}
 }

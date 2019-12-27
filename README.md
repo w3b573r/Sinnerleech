@@ -6,7 +6,7 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## ===== Information =====
-This repository allow to deploy [Sinnerleech app](https://github.com/w3b573r/Sinnerleech/releases/latest) on Heroku platform.
+This repository allow to deploy [Sinnerleech app](https://github.com/w3b573r/Sinnerleech/releases/latest) (mod of Tcloud) on Heroku platform.
 
 ## ===== View =====
 
@@ -20,3 +20,5 @@ This repository allow to deploy [Sinnerleech app](https://github.com/w3b573r/Sin
 
 /!\ Heroku don't store any data. Once your app shutdown, you will loose all your login and your files.
 To prevent that you can use [Uptimerobot](https://uptimerobot.com/) to keep your app UP 24/24.
+
+## Source: [Here](https://github.com/Lunik/tcloud)

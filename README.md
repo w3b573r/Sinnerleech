@@ -10,7 +10,7 @@ This repository allow to deploy [Sinnerleech app](https://github.com/w3b573r/Sin
 
 ## ===== View =====
 
-![App-view](https://i.imgur.com/BsmiKID.png)
+![App-view](https://i.imgur.com/ifrZq5L.png)
 
 ## ===== Installation =====
 

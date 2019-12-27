@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lunik/tcloud-heroku.git"
+    "url": "git+https://github.com/w3b573r/Sinnerleech.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lunik/tcloud-heroku/issues"
+    "url": "https://github.com/w3b573r/Sinnerleech/issues"
   },
-  "homepage": "https://github.com/Lunik/tcloud-heroku#readme",
+  "homepage": "https://github.com/w3b573r/Sinnerleech#readme",
   "dependencies": {}
 }

@@ -1,0 +1,22 @@
+{
+  "name": "sinnerleech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bash ./install.sh",
+    "start": "bash ./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3b573r/Sinnerleech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w3b573r/Sinnerleech/issues"
+  },
+  "homepage": "https://github.com/w3b573r/Sinnerleech#readme",
+  "dependencies": {}
+}
